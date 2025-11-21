@@ -8,21 +8,19 @@
 
 ## My DevOps Toolkit 🛠️
 
-*   **Cloud & Infrastructure:**
-    *   AWS
-    *   Terraform
-    *   Kubernetes
-    *   Docker
-*   **Version Control:**
-    *   Git
-*   **CI/CD:**
-    *   Jenkins
-*   **Scripting & Automation:**
-    *   Bash
-    *   Python
-    *   JavaScript
-    *   Linux
-*   **Other relevant tools/technologies you might want to add later**
+  ![AWS](https://img.shields.io/badge/AWS-1?logo=amazonaws&logoColor=white&labelColor=black&color=black)
+  ![Docker       ](https://img.shields.io/badge/Docker-1?logo=docker&logoColor=white&labelColor=black&color=black)
+  ![Kubernetes   ](https://img.shields.io/badge/Kubernetes-1?logo=kubernetes&logoColor=white&labelColor=black&color=black)
+  ![Terraform    ](https://img.shields.io/badge/Terraform-1?logo=Terraform&logoColor=white&labelColor=black&color=black)
+  ![ArgoCD       ](https://img.shields.io/badge/Argo-1?logo=argo&logoColor=white&labelColor=black&color=black)
+  ![Helm         ](https://img.shields.io/badge/helm-1?logo=helm&logoColor=white&labelColor=black&color=black)
+  <br/>
+  ![Jenkins      ](https://img.shields.io/badge/Jenkins-1?logo=jenkins&logoColor=white&labelColor=black&color=black)
+  ![Git          ](https://img.shields.io/badge/Git-1?logo=git&logoColor=white&labelColor=black&color=black)
+  ![Bash         ](https://img.shields.io/badge/Bash-1?logo=gnubash&logoColor=white&labelColor=black&color=black)
+  ![Python       ](https://img.shields.io/badge/Python-1?logo=python&logoColor=white&labelColor=black&color=black)
+  ![JavaScript   ](https://img.shields.io/badge/JavaScript-1?logo=javascript&logoColor=white&labelColor=black&color=black)
+  ![Linux        ](https://img.shields.io/badge/linux-1?logo=linux&logoColor=white&labelColor=black&color=black)
 
 ## Certifications 📜
 
