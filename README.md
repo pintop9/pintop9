@@ -6,7 +6,7 @@
 
 ## About Me
 
-<!-- A more detailed paragraph about your experience, interests, and what you bring to the table in the DevOps space. -->
+I'm a passionate DevOps engineer who thrives on learning, teaching, and staying at the forefront of technology. I'm constantly exploring new tools and techniques to build efficient, scalable, and robust infrastructure. My passion extends to sharing knowledge with others and contributing to the ever-evolving world of technology.
 
 ## My DevOps Toolkit 🛠️
 
@@ -26,23 +26,11 @@
 
 ## Certifications 📜
 
-  <p align="center">
-    <a href="https://www.credly.com/badges/cd704bac-683b-4dc1-85e4-c4aec1dbe246" target="_blank">
-      <img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-blue?logo=kubernetes" alt="CKA Badge">
-    </a>
-    <a href="https://www.credly.com/earner/earned/badge/5bde0b88-7dbb-4a5b-ac69-fb508acc2d92" target="_blank">
-      <img src="https://img.shields.io/badge/CCNA-Cisco%20Certified%20Network%20Associate-blue?logo=cisco" alt="CCNA Badge">
-    </a>
-    <a href="https://www.credly.com/earner/earned/badge/2fc2c084-410a-4da8-86ea-48943a439503" target="_blank">
-      <img src="https://img.shields.io/badge/CCNP%20ENCOR-Enterprise%20Core-blue?logo=cisco" alt="CCNP ENCOR Badge">
-    </a>
-    <a href="https://www.credly.com/earner/earned/badge/1d536b7f-3e28-45a9-8654-ef2e713fddd2" target="_blank">
-      <img src="https://img.shields.io/badge/CCNP%20Enterprise-Enterprise-blue?logo=cisco" alt="CCNP Enterprise Badge">
-    </a>
-    <a href="https://www.credly.com/earner/earned/badge/fa4961fd-7a27-4aee-8213-3f9c76c01ba7" target="_blank">
-      <img src="https://img.shields.io/badge/DevNet%20Specialist-Enterprise%20Automation-blue?logo=cisco" alt="DevNet Specialist Badge">
-    </a>
-  </p>
+<a href="https://www.credly.com/badges/cd704bac-683b-4dc1-85e4-c4aec1dbe246" target="_blank"><img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-blue?logo=kubernetes" alt="CKA Badge"></a>&nbsp;
+<a href="https://www.credly.com/earner/earned/badge/5bde0b88-7dbb-4a5b-ac69-fb508acc2d92" target="_blank"><img src="https://img.shields.io/badge/CCNA-Cisco%20Certified%20Network%20Associate-blue?logo=cisco" alt="CCNA Badge"></a>&nbsp;
+<a href="https://www.credly.com/earner/earned/badge/2fc2c084-410a-4da8-86ea-48943a439503" target="_blank"><img src="https://img.shields.io/badge/CCNP%20ENCOR-Enterprise%20Core-blue?logo=cisco" alt="CCNP ENCOR Badge"></a>&nbsp;
+<a href="https://www.credly.com/earner/earned/badge/1d536b7f-3e28-45a9-8654-ef2e713fddd2" target="_blank"><img src="https://img.shields.io/badge/CCNP%20Enterprise-Enterprise-blue?logo=cisco" alt="CCNP Enterprise Badge"></a>&nbsp;
+<a href="https://www.credly.com/earner/earned/badge/fa4961fd-7a27-4aee-8213-3f9c76c01ba7" target="_blank"><img src="https://img.shields.io/badge/DevNet%20Specialist-Enterprise%20Automation-blue?logo=cisco" alt="DevNet Specialist Badge"></a>
 
 ## Projects 🚀
 
