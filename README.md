@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi there, I'm Idan Pinto 👋
 
 <!-- Short, engaging introduction about yourself and your passion for DevOps -->
@@ -39,3 +41,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idan-pinto-856934184/)
 
 <!-- Optional: You might want to add sections for projects, certifications, or blog posts later. -->
+
+</div>
