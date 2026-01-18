@@ -34,8 +34,6 @@ I'm a passionate DevOps engineer who thrives on learning, teaching, and staying 
 
 ## Projects 🚀
 
-## Projects
-
 | | |
 |---|---|
 | **[k8s-openldap](https://github.com/pintop9/k8s-openldap)**  <br/> Automated OpenLDAP on Kubernetes (Minikube) with Helm + scripts, preloaded users, and first-login MFA enrollment. <br/><sub> Kubernetes · Helm · OpenLDAP · Python · Bash</sub> | **[devops-course-final-project](https://github.com/pintop9/devops-course-final-project)** <br/> Full-stack e-commerce app with Dockerized local setup + AWS CI/CD using Terraform + Jenkins (CasC). <br/><sub> Django  · React · Redux · PostgreSQL · Docker · AWS · Terraform · Jenkins</sub> |
