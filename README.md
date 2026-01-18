@@ -34,25 +34,12 @@ I'm a passionate DevOps engineer who thrives on learning, teaching, and staying 
 
 ## Projects 🚀
 
-### k8s-openldap
-Automated, config-driven OpenLDAP on Kubernetes (Minikube) with preloaded users + first-login MFA (OATH/OTP) enrollment via Python CLI.  
-**Tech:** Kubernetes · Helm · OpenLDAP · Python · Bash  
-**Repo:** https://github.com/pintop9/k8s-openldap
+## Projects
 
-### devops-course-final-project
-Full-stack Django + React/Redux e-commerce app with Dockerized local setup and AWS CI/CD deployment using Terraform + Jenkins (CasC).  
-**Tech:** Django · DRF · React · Redux · PostgreSQL · Docker · AWS · Terraform · Jenkins  
-**Repo:** https://github.com/pintop9/devops-course-final-project
-
-### S3-protectedstaticwebsite
-Protected static website on AWS: S3 origin behind CloudFront (HTTPS), locked down with OAI and protected by AWS WAF.  
-**Tech:** Terraform · S3 · CloudFront · WAF · OAI · HTML/CSS/JS  
-**Repo:** https://github.com/pintop9/S3-protectedstaticwebsite
-
-### jenkins-casc
-Reproducible Jenkins environment using Docker Compose + Jenkins Configuration as Code to bootstrap config + a pipeline job.  
-**Tech:** Jenkins · CasC · Docker · Docker Compose · Jenkinsfile · YAML  
-**Repo:** https://github.com/pintop9/jenkins-casc
+| | |
+|---|---|
+| **[k8s-openldap](https://github.com/pintop9/k8s-openldap)**  <br/> Automated OpenLDAP on Kubernetes (Minikube) with Helm + scripts, preloaded users, and first-login MFA enrollment. <br/><sub>Tech: Kubernetes · Helm · OpenLDAP · Python · Bash</sub> | **[devops-course-final-project](https://github.com/pintop9/devops-course-final-project)** <br/> Full-stack e-commerce app with Dockerized local setup + AWS CI/CD using Terraform + Jenkins (CasC). <br/><sub>Tech: Django · DRF · React · Redux · PostgreSQL · Docker · AWS · Terraform · Jenkins</sub> |
+| **[S3-protectedstaticwebsite](https://github.com/pintop9/S3-protectedstaticwebsite)** <br/> Secure static site on AWS: S3 behind CloudFront (HTTPS), protected with OAI + WAF. <br/><sub>Tech: Terraform · S3 · CloudFront · WAF · OAI · HTML/CSS/JS</sub> | **[jenkins-casc](https://github.com/pintop9/jenkins-casc)** <br/> Reproducible Jenkins environment via Docker Compose + Jenkins Configuration as Code with a pre-configured pipeline job. <br/><sub>Tech: Jenkins · CasC · Docker · Docker Compose · Jenkinsfile · YAML</sub> |
 
 
 ## Connect with Me 🤝
