@@ -33,11 +33,59 @@ I'm a passionate DevOps engineer who thrives on learning, teaching, and staying 
 <a href="https://www.credly.com/earner/earned/badge/fa4961fd-7a27-4aee-8213-3f9c76c01ba7" target="_blank"><img src="https://img.shields.io/badge/DevNet%20Specialist-Enterprise%20Automation-blue?logo=cisco" alt="DevNet Specialist Badge"></a>
 
 ## Projects 🚀
-| | |
-|---|---|
- **[DevOps-Demo-Project](https://github.com/pintop9/DevOps-Demo-Project/)**  <br/> Complete CI/CD demo: Flask app + Docker + Kubernetes (Helm) + ArgoCD GitOps + GitHub Actions workflows. <br/><sub> Python/Flask · Docker · Kubernetes · Helm · ArgoCD · GitHub Actions · pytest</sub> https://github.com/pintop9/DevOps-Demo-Project/
-| **[k8s-openldap](https://github.com/pintop9/k8s-openldap)**  <br/> Automated OpenLDAP on Kubernetes (Minikube) with Helm + scripts, preloaded users, and first-login MFA enrollment. <br/><sub> Kubernetes · Helm · OpenLDAP · Python · Bash</sub> | **[devops-course-final-project](https://github.com/pintop9/devops-course-final-project)** <br/> Full-stack e-commerce app with Dockerized local setup + AWS CI/CD using Terraform + Jenkins (CasC). <br/><sub> Django  · React · Redux · PostgreSQL · Docker · AWS · Terraform · Jenkins</sub> |
-| **[S3-protectedstaticwebsite](https://github.com/pintop9/S3-protectedstaticwebsite)** <br/> Secure static site on AWS: S3 behind CloudFront (HTTPS), protected with OAI + WAF. <br/><sub> Terraform · S3 · CloudFront · WAF · OAI · HTML/CSS/JS</sub> | **[jenkins-casc](https://github.com/pintop9/jenkins-casc)** <br/> Reproducible Jenkins environment via Docker Compose + Jenkins Configuration as Code with a pre-configured pipeline job. <br/><sub> Jenkins · CasC · Docker · Docker Compose · Jenkinsfile · YAML</sub> |
+<h2>Projects</h2>
+
+<table>
+  <tr>
+    <td colspan="3">
+      <b><a href="https://github.com/pintop9/DevOps-Demo-Project/">DevOps-Demo-Project</a></b><br/>
+      Complete DevOps CI/CD demo: Flask app + Docker + Kubernetes (Helm) + ArgoCD GitOps + GitHub Actions workflows.<br/>
+      <sub>Tech: Python/Flask · Docker · Kubernetes · Helm · ArgoCD · GitHub Actions · pytest</sub>
+      <a href="https://github.com/pintop9/DevOps-Demo-Project/">Source</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <b><a href="https://github.com/pintop9/k8s-openldap">k8s-openldap</a></b><br/>
+      Automated OpenLDAP on Kubernetes (Minikube) using Helm + scripts, with preloaded users and first-login MFA enrollment.<br/>
+      <sub>Tech: Kubernetes · Helm · OpenLDAP · Python · Bash</sub>
+      <a href="https://github.com/pintop9/k8s-openldap">Source</a>
+    </td>
+
+    <td>
+      <b><a href="https://github.com/pintop9/devops-course-final-project">devops-course-final-project</a></b><br/>
+      Full-stack e-commerce app with Dockerized local setup and AWS CI/CD using Terraform + Jenkins (CasC).<br/>
+      <sub>Tech: Django · DRF · React · Redux · PostgreSQL · Docker · AWS · Terraform · Jenkins</sub>
+      <a href="https://github.com/pintop9/devops-course-final-project">Source</a>
+    </td>
+
+    <td>
+      <b><a href="https://github.com/pintop9/S3-protectedstaticwebsite">S3-protectedstaticwebsite</a></b><br/>
+      Protected static website on AWS S3 via CloudFront (HTTPS), locked down with OAI and protected by AWS WAF.<br/>
+      <sub>Tech: Terraform · S3 · CloudFront · WAF · OAI · HTML/CSS/JS</sub>
+      <a href="https://github.com/pintop9/S3-protectedstaticwebsite">Source</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <b><a href="https://github.com/pintop9/jenkins-casc">jenkins-casc</a></b><br/>
+      Reproducible Jenkins setup using Docker Compose + Jenkins Configuration as Code (CasC) with a pre-configured pipeline job.<br/>
+      <sub>Tech: Jenkins · CasC · Docker · Docker Compose · Jenkinsfile · YAML</sub>
+      <a href="https://github.com/pintop9/jenkins-casc">Source</a>
+    </td>
+
+    <td>
+      <b><a href="https://github.com/pintop9/serverless-deployment">serverless-deployment</a></b><br/>
+      AWS SAM serverless app (Lambda + API Gateway) with infra in template.yaml plus local build/test workflows.<br/>
+      <sub>Tech: AWS SAM · Lambda · API Gateway · Python · CloudFormation</sub>
+      <a href="https://github.com/pintop9/serverless-deployment">Source</a>
+    </td>
+
+    <td></td>
+  </tr>
+</table>
 
 
 ## Connect with Me 🤝
