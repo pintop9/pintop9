@@ -33,6 +33,7 @@ I'm a passionate DevOps engineer who thrives on learning, teaching, and staying 
 <a href="https://www.credly.com/earner/earned/badge/fa4961fd-7a27-4aee-8213-3f9c76c01ba7" target="_blank"><img src="https://img.shields.io/badge/DevNet%20Specialist-Enterprise%20Automation-blue?logo=cisco" alt="DevNet Specialist Badge"></a>
 
 ## Projects 🚀
+|   |   |
 |---|---|
 | **[k8s-openldap](https://github.com/pintop9/k8s-openldap)**  <br/> Automated OpenLDAP on Kubernetes (Minikube) with Helm + scripts, preloaded users, and first-login MFA enrollment. <br/><sub> Kubernetes · Helm · OpenLDAP · Python · Bash</sub> | **[devops-course-final-project](https://github.com/pintop9/devops-course-final-project)** <br/> Full-stack e-commerce app with Dockerized local setup + AWS CI/CD using Terraform + Jenkins (CasC). <br/><sub> Django  · React · Redux · PostgreSQL · Docker · AWS · Terraform · Jenkins</sub> |
 | **[S3-protectedstaticwebsite](https://github.com/pintop9/S3-protectedstaticwebsite)** <br/> Secure static site on AWS: S3 behind CloudFront (HTTPS), protected with OAI + WAF. <br/><sub> Terraform · S3 · CloudFront · WAF · OAI · HTML/CSS/JS</sub> | **[jenkins-casc](https://github.com/pintop9/jenkins-casc)** <br/> Reproducible Jenkins environment via Docker Compose + Jenkins Configuration as Code with a pre-configured pipeline job. <br/><sub> Jenkins · CasC · Docker · Docker Compose · Jenkinsfile · YAML</sub> |
