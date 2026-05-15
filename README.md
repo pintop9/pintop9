@@ -35,14 +35,7 @@ I'm a passionate DevOps engineer who thrives on learning, teaching, and staying 
 ## Projects 🚀
 
 <table>
-  <tr>
-    <td colspan="3">
-      <b><a href="https://github.com/pintop9/DevOps-Demo-Project/">DevOps-Demo-Project</a></b><br/>
-      Complete DevOps CI/CD demo: Flask app + Docker + Kubernetes (Helm) + ArgoCD GitOps + GitHub Actions workflows.<br/>
-      <sub>Tech: Python/Flask · Docker · Kubernetes · Helm · ArgoCD · GitHub Actions · pytest</sub>
-      <a href="https://github.com/pintop9/DevOps-Demo-Project/">Source</a>
-    </td>
-  </tr>
+
 
   <tr>
     <td>
@@ -51,14 +44,6 @@ I'm a passionate DevOps engineer who thrives on learning, teaching, and staying 
       <sub>Tech: Kubernetes · Helm · OpenLDAP · Python · Bash</sub>
       <a href="https://github.com/pintop9/k8s-openldap">Source</a>
     </td>
-
-  <td>
-      <b><a href="https://github.com/pintop9/devops-course-final-project">devops-course-final-project</a></b><br/>
-      Full-stack e-commerce app with Dockerized local setup and AWS CI/CD using Terraform + Jenkins (CasC).<br/>
-      <sub>Tech: Django · DRF · React · Redux · PostgreSQL · Docker · AWS · Terraform · Jenkins</sub>
-      <a href="https://github.com/pintop9/devops-course-final-project">Source</a>
-  </td>
-
    <td>
       <b><a href="https://github.com/pintop9/S3-protectedstaticwebsite">S3-protectedstaticwebsite</a></b><br/>
       Protected static website on AWS S3 via CloudFront (HTTPS), locked down with OAI and protected by AWS WAF.<br/>
@@ -80,7 +65,14 @@ I'm a passionate DevOps engineer who thrives on learning, teaching, and staying 
       <sub>Tech: AWS SAM · Lambda · API Gateway · Python · CloudFormation</sub>
       <a href="https://github.com/pintop9/serverless-deployment">Source</a>
     </td>
-
+  <tr>
+    <td colspan="3">
+      <b><a href="https://github.com/pintop9/DevOps-Demo-Project/">DevOps-Demo-Project</a></b><br/>
+      Complete DevOps CI/CD demo: Flask app + Docker + Kubernetes (Helm) + ArgoCD GitOps + GitHub Actions workflows.<br/>
+      <sub>Tech: Python/Flask · Docker · Kubernetes · Helm · ArgoCD · GitHub Actions · pytest</sub>
+      <a href="https://github.com/pintop9/DevOps-Demo-Project/">Source</a>
+    </td>
+  </tr>
   <td></td>
   </tr>
 </table>
