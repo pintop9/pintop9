@@ -59,20 +59,6 @@ I'm a passionate DevOps engineer who thrives on learning, teaching, and staying 
       <a href="https://github.com/pintop9/jenkins-casc">Source</a>
     </td>
 
-  <td>
-      <b><a href="https://github.com/pintop9/serverless-deployment">serverless-deployment</a></b><br/>
-      AWS SAM serverless app (Lambda + API Gateway) with infra in template.yaml plus local build/test workflows.<br/>
-      <sub>Tech: AWS SAM · Lambda · API Gateway · Python · CloudFormation</sub>
-      <a href="https://github.com/pintop9/serverless-deployment">Source</a>
-    </td>
-  <tr>
-    <td colspan="3">
-      <b><a href="https://github.com/pintop9/DevOps-Demo-Project/">DevOps-Demo-Project</a></b><br/>
-      Complete DevOps CI/CD demo: Flask app + Docker + Kubernetes (Helm) + ArgoCD GitOps + GitHub Actions workflows.<br/>
-      <sub>Tech: Python/Flask · Docker · Kubernetes · Helm · ArgoCD · GitHub Actions · pytest</sub>
-      <a href="https://github.com/pintop9/DevOps-Demo-Project/">Source</a>
-    </td>
-  </tr>
   <td></td>
   </tr>
 </table>
